@@ -1,3 +1,11 @@
+;----------------------------------------------
+; Assignment 4
+; Reverse String
+;
+; This program is to reverse entered text using
+; stack memory.
+;----------------------------------------------
+
 INCLUDE irvine32.inc
 
 .data
