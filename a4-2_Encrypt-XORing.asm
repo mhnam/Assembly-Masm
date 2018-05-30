@@ -1,3 +1,12 @@
+;----------------------------------------------
+; Assignment 4-2
+; Encrypt using XORing
+;
+; This program is to encrypt entered text using
+; given key by XORing.
+;----------------------------------------------
+
+
 INCLUDE irvine32.inc
 
 .data
